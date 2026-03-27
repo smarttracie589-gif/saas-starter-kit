@@ -1,5 +1,7 @@
 # SaaS Starter Kit
 
+**English** | [中文](./README.zh-CN.md)
+
 A production-ready Next.js boilerplate with all the necessary infrastructure wired up. Focus on building your core product, not reinventing the wheel.
 
 ## What's Included
